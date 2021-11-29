@@ -2,7 +2,7 @@
 
 The code is build based on NNFS project.
 
-Even though the code is build in plain python, code is not commented. For more understanding you can visit nnfs.io or sendtex youtube channel.
+Even though the code is build in plain python, code is not commented. For more understanding you can visit [nnfs.io](https://www.nnfs.io) or [sendtex youtube channel](https://www.youtube.com/c/sentdex).
 
 starting the project:
 
